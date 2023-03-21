@@ -1,4 +1,4 @@
-# C-Sudoku-Game
+# C++ Sudoku Game
 A C++ command-line based Sudoku generator and game
 
 # Future Plan
